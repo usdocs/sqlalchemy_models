@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment (uv)
+.venv/
+
+# Кэши mypy и pytest
+.mypy_cache/
+.pytest_cache/
+
+# База данных, создаваемая при запуске
+*.db
